@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/antlr-runtime-3.4.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/gson-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netflix-eventbus-0.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/antlr-2.7.7.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jsr305-3.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/ribbon-eureka-2.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-codec-http-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jersey-core-1.19.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/eureka-client-1.4.11.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netflix-statistics-0.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-buffer-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/stringtemplate-3.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/guava-14.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/rxnetty-servo-0.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/xmlpull-1.1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/annotations-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/governator-api-1.12.10.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-web-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/hystrix-core-1.4.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netflix-commons-util-0.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-math-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-codec-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/xstream-1.4.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/guice-4.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-handler-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/servo-internal-0.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-context-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/ribbon-loadbalancer-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/ribbon-2.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jersey-apache-client4-1.19.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-common-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/rxnetty-0.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-transport-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-core-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/servo-core-0.10.1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/ribbon-core-2.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-expression-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netflix-infix-0.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jackson-annotations-2.5.4.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/rxjava-1.0.10.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/archaius-core-0.6.5.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/rxnetty-contexts-0.4.9.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/httpcore-4.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-webmvc-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-configuration-1.8.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/ribbon-transport-2.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/netty-transport-native-epoll-4.0.27.Final.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jettison-1.3.7.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jersey-client-1.19.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/commons-jxpath-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-beans-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/joda-time-2.3.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/javax.inject-1.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/spring-aop-4.3.1.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/jackson-core-2.5.4.jar!/" />
+      <root url="jar://$USER_HOME$/IdeaProjects/ribbon_service_client/mobilemicrowebapp/target/mobile-micro-webapp/WEB-INF/lib/httpclient-4.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
